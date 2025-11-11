@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Kennedy Smith",
+    "job": "Chief Mobility Orchestrator",
+    "city": "North Alec",
+    "lastLogin": "Today",
+    "address": "536 Beach St. Indianapolis, IN 46201",
+    "avatar": "images/user-01.jpg",
+    "role": 1
+  },
+  {
+    "id": 2,
+    "name": "Lucius Bean",
+    "job": "Internal Research Manager",
+    "lastLogin": "Just now",
+    "city": "Littleland",
+    "address": "937 Edgefield St. Norwich, CT 06360",
+    "avatar": "images/user-02.jpg",
+    "role": 2
+  },
+  {
+    "id": 3,
+    "name": "Carlos Cox",
+    "job": "Lead Configuration Analyst",
+    "lastLogin": "2 months ago",
+    "city": "South Lillian",
+    "address": "286 Kirkland St. Rochester, NY 14606",
+    "avatar": "images/user-03.jpg",
+    "role": 3
+  },
+  {
+    "id": 4,
+    "name": "Urban Wilson",
+    "job": "Chief Operations Agent",
+    "lastLogin": "3 hours ago",
+    "city": "Shieldshaven",
+    "address": "724 Princess Road Richardson, TX 75080",
+    "avatar": "images/user-04.jpg",
+    "role": 2
+  },
+  {
+    "id": 5,
+    "name": "Katrine Owen",
+    "job": "Legacy Solutions Orchestrator",
+    "lastLogin": "Yesterday",
+    "city": "South Kyleigh",
+    "address": "9304 Santa Clara Dr. Lebanon, PA 17042",
+    "avatar": "images/user-05.jpg",
+    "role": 4
+  }
+]
